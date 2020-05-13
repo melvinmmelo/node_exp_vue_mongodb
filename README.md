@@ -11,3 +11,14 @@ Part 1
 Backend
 Setting up, Connecting to Mongo
 Gettting and deleting post
+
+Part 2
+Setting up vuew
+
+You must be @ the root
+npm i -g @vue/cli
+vue create client
+cd to client
+npm run serve
+
+npm i axios
